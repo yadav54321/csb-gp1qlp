@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://yadav54321.github.io/csb-gp1qlp/static/js/main.2a49ab27.chunk.js",
+    "main.js.map": "https://yadav54321.github.io/csb-gp1qlp/static/js/main.2a49ab27.chunk.js.map",
+    "runtime-main.js": "https://yadav54321.github.io/csb-gp1qlp/static/js/runtime-main.b57bf235.js",
+    "runtime-main.js.map": "https://yadav54321.github.io/csb-gp1qlp/static/js/runtime-main.b57bf235.js.map",
+    "static/js/2.665b78a0.chunk.js": "https://yadav54321.github.io/csb-gp1qlp/static/js/2.665b78a0.chunk.js",
+    "static/js/2.665b78a0.chunk.js.map": "https://yadav54321.github.io/csb-gp1qlp/static/js/2.665b78a0.chunk.js.map",
+    "index.html": "https://yadav54321.github.io/csb-gp1qlp/index.html",
+    "static/js/2.665b78a0.chunk.js.LICENSE.txt": "https://yadav54321.github.io/csb-gp1qlp/static/js/2.665b78a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b57bf235.js",
+    "static/js/2.665b78a0.chunk.js",
+    "static/js/main.2a49ab27.chunk.js"
+  ]
+}
